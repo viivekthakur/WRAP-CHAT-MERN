@@ -41,14 +41,14 @@ mern-chat-app/ │ ├── backend/ # Express server, MongoDB, Socket.io │ �
 ## 🔧 Getting Started
 
 
-## 1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/viivekthakur/mern-chat-app.git
 cd mern-chat-app
 
 
-2. Backend Setup
+### 2. Backend Setup
 cd backend
 npm install
 
