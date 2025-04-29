@@ -39,6 +39,8 @@ A modern full-stack chat application built using the **MERN stack**, supporting 
 mern-chat-app/ │ ├── backend/ # Express server, MongoDB, Socket.io │ ├── controllers/ │ ├── models/ │ ├── routes/ │ └── server.js │ ├── frontend/ # React app │ ├── src/ │ │ ├── components/ │ │ ├── context/ │ │ ├── pages/ │ │ └── App.js │ ├── .gitignore ├── README.md └── package.json
 
 ## 🔧 Getting Started
+
+
 ### 1. Clone the repository
 
 ```bash
