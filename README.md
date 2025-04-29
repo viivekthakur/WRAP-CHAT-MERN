@@ -48,7 +48,7 @@ git clone https://github.com/viivekthakur/mern-chat-app.git
 cd mern-chat-app
 
 
-### 2. Backend Setup
+2. Backend Setup
 cd backend
 npm install
 
